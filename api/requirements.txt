@@ -1,0 +1,6 @@
+requests
+mysql-connector-python
+dateparser
+pytest-playwright
+websocket-server
+python-dotenv
