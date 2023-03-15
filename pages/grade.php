@@ -490,7 +490,7 @@ $t = filemtime("../assets/js/manual-notation-comparison.js");
 				    <script src="../assets/js/manual-notation-comparison.js?<?php echo $t ?>"></script>
   <script src="../assets/js/my-select.js"></script>
   <!-- google maps api -->
-  <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA15K-LuRu0y349mlE3oEOZb3vsh-fDXcI&libraries=places&callback=initMap&language=fr">
+  <script async src="https://maps.googleapis.com/maps/api/js?key=api_key&libraries=places&callback=initMap&language=fr">
   </script>
   <!-- main script file  -->
   <script src="../assets/js/argon-dashboard-tailwind.js?v=1.0.1" async></script>

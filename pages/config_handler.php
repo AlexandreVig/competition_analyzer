@@ -5,7 +5,7 @@ $json = file_get_contents('php://input');
 $data = json_decode($json);
 
 $message = array("response" => "Success");
-$key = "AIzaSyA15K-LuRu0y349mlE3oEOZb3vsh-fDXcI";
+$key = "api_key";
 function test_input($data)
 {
     $data = trim($data);
